@@ -1,0 +1,16 @@
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\bin\Debug\net8.0-windows\10 Laboratory Exercise 1.exe
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\bin\Debug\net8.0-windows\10 Laboratory Exercise 1.deps.json
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\bin\Debug\net8.0-windows\10 Laboratory Exercise 1.runtimeconfig.json
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\bin\Debug\net8.0-windows\10 Laboratory Exercise 1.dll
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\bin\Debug\net8.0-windows\10 Laboratory Exercise 1.pdb
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.csproj.GenerateResource.cache
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.AssemblyInfoInputs.cache
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.AssemblyInfo.cs
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.csproj.CoreCompileInputs.cache
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.dll
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\refint\10 Laboratory Exercise 1.dll
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.pdb
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\10 Laboratory Exercise 1.genruntimeconfig.cache
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\ref\10 Laboratory Exercise 1.dll
+D:\Codes\C#\10 Laboratory Exercise 1\10 Laboratory Exercise 1\obj\Debug\net8.0-windows\_10_Laboratory_Exercise_1.frmAddProduct.resources
